@@ -19,4 +19,4 @@ after a system component is connected to a
 production environment.
 ```
 Khi xây dựng, vận hành hệ thống cần cần có các tiêu chuẩn cấu hình quy định các bước thiết lập ban đầu, đến kiểm tra thử nghiệm (nếu có) đến khi đưa vào hệ thống thực tế. 
-Từng loại hệ thống nên có riêng một tiêu chuẩn để đảm bảo việc cấu hình phù hợp cho 
+Từng loại hệ thống nên có riêng một tiêu chuẩn để đảm bảo việc cấu hình phù hợp cho loại hệ thống và chức năng của hệ thống.
