@@ -3,13 +3,14 @@ Khác với yêu cầu 1 chỉ tập trung vào các NSCs, yêu cầu 2 cover to
 # 2. Yêu cầu
 ## 2.2 Cấu hình và quản lý an toàn các thành phần hệ thống
 ### 2.2.1
+~~~
 > Configuration standards are developed, implemented, and maintained to:
 > • Cover all system components.
 > • Address all known security vulnerabilities.
 > • Be consistent with industry-accepted system hardening standards or vendor hardening recommendations.
 > • Be updated as new vulnerability issues are identified, as defined in Requirement 6.3.1.
 > • Be applied when new systems are configured and verified as in place before or immediately after a system component is connected to a production environment.
-
+~~~
 Khi xây dựng, vận hành hệ thống cần cần có các tiêu chuẩn cấu hình quy định từ các bước thiết lập ban đầu, đến kiểm tra thử nghiệm (nếu có) và khi đưa vào hệ thống thực tế. Từng loại hệ thống nên có riêng một tiêu chuẩn để đảm bảo việc cấu hình phù hợp cho loại hệ thống và chức năng của hệ thống.
 Các tiêu chuẩn này nên nhất quán với các khuyến nghị hardening của ngành và các khuyến nghị hardening của nhà cung cấp. Nhân sự chịu trách nhiệm nên thường xuyên cập nhật các hướng dẫn mới liên quan đến nâng cao bảo mật hệ thống để áp dụng vào tiêu chuẩn cấu hình của tổ chức. Các cuộc tấn công luôn thay đổi, nâng cấp ngày càng tinh vi, bên cạnh đó cũng xuất hiện nhiều công nghệ mới, biện pháp bảo mật mới nên việc thường xuyên cập nhật tình hình an ninh mạng và các hướng dẫn, khuyến nghị bảo mật là cần thiết để xây dựng tiêu chuẩn đạt hiệu quả bảo mật liên tục.
 Mỗi loại hệ thống cần có một loại tiêu chuẩn cấu hình riêng, vì từng loại hệ thống mang những chức năng riêng biệt, cấu hình cũng cần phải phù hợp để đảm bảo tính hiệu quả của cấu hình, và tính bảo mật đối với thành phần hệ thống đó.
