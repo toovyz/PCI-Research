@@ -57,7 +57,7 @@ Các tham số bảo mật của từng thành phần hệ thống phụ thuộc
 > All non-console administrative access is encrypted using strong cryptography.
 
 Việc mã hóa mạnh các quyền truy cập quản trị non-console với mã hóa mạnh giúp chống lại các tác nhân nghe lén trong mạng, đặc biệt khi sử dụng các mạng công cộng. Các truy cập quản trị non-console có thể bao gồm truy cập dựa trên giao diện trình duyệt web và APIs.
-## 2.3 Môi trường không dây được cấu hình và quản lý an toàn
+## 2.3 Cấu hình và quản lý an toàn môi trường không dây
 ### 2.3.1 
 > For wireless environments connected to the CDE or transmitting account data, all wireless vendor defaults are changed at installation or are confirmed to be secure, including but not limited to:
 > • Default wireless encryption keys.
