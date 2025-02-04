@@ -70,5 +70,5 @@ Khi sử dụng môi trường mạng không dây để kết nối đến CDE h
 > • Whenever personnel with knowledge of the key leave the company or the role for which the knowledge was necessary.
 > • Whenever a key is suspected of or known to be compromised.
 
-Yêu cầu này nói về khóa mã hóa của mạng không dây có kết nối đến CDE hoặc truyền tải dữ liệu tài khoản. Các khóa này cần phải được thay đổi khi có nghi ngờ bị xâm phạm, hoặc biết rõ bị xâm phạm, và nên được quản lý theo kế hoạch phản ứng sự cố của doanh nghiệp. 
-Đối với nhân sự có hiểu biết về khóa, khi nhân sự này thay đổi vị trí, vai trò hoặc khi nhân sự nghỉ việc, cũng cần phải thay đổi. Việc thay đổi này giúp tổ chức giới hạn tối thiểu việc có hiểu biết về khóa theo bussiness need to know.
+Yêu cầu này nói về khóa mã hóa của mạng không dây có kết nối đến CDE hoặc truyền tải dữ liệu tài khoản. Các khóa này cần phải được thay đổi khi có nghi ngờ bị xâm phạm, hoặc biết rõ bị xâm phạm, và nên được thêm vào kế hoạch phản ứng sự cố của doanh nghiệp. 
+Đối với nhân sự có hiểu biết về khóa, khi nhân sự này thay đổi vị trí, vai trò hoặc khi nhân sự nghỉ việc, cũng cần phải thay đổi. Việc thay đổi này giúp tổ chức giới hạn tối thiểu việc có hiểu biết về khóa.
