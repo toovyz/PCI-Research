@@ -1,5 +1,5 @@
 # 1. Tổng quan
-Khác với yêu cầu 1 chỉ tập trung vào các NSCs, yêu cầu 2 cover toàn bộ thành phần hệ thống trong tổ chức. Yêu cầu này bao gồm các yêu cầu về triển khai, cấu hình hệ thống phù hợp, nhầm tăng cường bảo mật trên từng thành phần hệ thống.
+Khác với yêu cầu 1 tập trung vào các NSCs, yêu cầu 2 cover toàn bộ thành phần hệ thống trong tổ chức. Yêu cầu này bao gồm các yêu cầu về triển khai, cấu hình hệ thống phù hợp, nhầm tăng cường bảo mật trên từng thành phần hệ thống.
 # 2. Yêu cầu
 ## 2.2 Cấu hình và quản lý an toàn các thành phần hệ thống
 ### 2.2.1
