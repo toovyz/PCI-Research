@@ -1,7 +1,7 @@
 # 1. Tổng quan
 Khác với yêu cầu 1 tập trung vào các NSCs, yêu cầu 2 cover toàn bộ thành phần hệ thống trong tổ chức. Yêu cầu này bao gồm các yêu cầu về triển khai, cấu hình hệ thống phù hợp với các khuyến nghị bảo mật và các khuyến nghị từ nhà cung cấp phần mềm, phần cứng, giải pháp, ... nhằm tăng cường bảo mật trên từng thành phần hệ thống.
 
-# 2. Yêu cầu
+# 2. Góc nhìn các yêu cầu
 ## 2.2 Cấu hình và quản lý an toàn các thành phần hệ thống
 ### 2.2.1
 Configuration standards are developed, implemented, and maintained to:
