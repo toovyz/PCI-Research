@@ -7,4 +7,5 @@ Theo truyền thống, chức năng này được cung cấp bởi tường lử
 Việc cài đặt và duy trì các NSC có thể nói là tất yếu đối với mỗi doanh nghiệp, để đảm bảo kiểm soát được các lưu lượng ra vào giữa các vùng mạng, thực thi các chính sách để cho phép hoặc chặn các lưu lượng.
 
 # 2. Quan điểm các yêu cầu
-# 1.2. 
+# 1.2 Cấu hình và duy trì các kiểm soát an ninh mạng
+
