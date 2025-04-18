@@ -11,3 +11,7 @@
 #Kong
 - Open source gateway tới API
 - Khi Kong đang chạy, mọi request được gửi tới API sẽ đến Kong trước tiên và sau đó nó sẽ được ủy quyền cho API cuối cùng. Ở giữa các request và response, Kong sẽ thực thi bất kỳ plugin nào mà bạn đã quyết định cài đặt, trao quyền cho các API của bạn. Kong thực sự trở thành entry point cho mọi API request.
+
+#K8s
+- Kubernetes, còn được gọi là K8s, là một hệ thống mã nguồn mở dùng để tự động triển khai, mở rộng quy mô và quản lý các ứng dụng chứa trong container.
+
