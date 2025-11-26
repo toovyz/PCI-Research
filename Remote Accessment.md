@@ -12,4 +12,14 @@
 - Tiềm năng cho việc tăng cường lấy mẫu
 
 *Nhược điểm:*
-- 
+- Dễ hiểu nhầm rằng việc đánh giá từ xa sẽ yêu cầu ít công sức và ít sự nghiệm ngặt hơn so với đánh giá onsite
+- Giảm khả năng của assessor trong việc chứng kiến các biện pháp kiểm soát và thủ tục trực tiếp khi chúng xảy ra
+- Tăng khả năng che đậy cho các yêu cầu không tuân thủ hoặc loại bỏ các yêu cầu không tuân thủ khỏi việc xem xét
+- Các cân nhắc bổ sung về tính bảo mật, tính toàn vẹn và tính khả dụng để hoàn thành các hoạt động đánh giá
+- Các cân nhắc bổ sung cho việc đảm bảo bằng chứng đáng tin cậy và toàn vẹn
+- Phụ thuộc vào tính khả dụng và hiệu quả của công nghệ cho việc đánh giá từ xa
+- Tăng thời gian cho việc chuẩn bị và lập kế hoạch đánh giá, và cho việc đánh giá
+
+Mặc dù đánh giá onsite vẫn là phương pháp đánh giá được ưu tiên cho các cuộc đánh gá, nhưng việc sử dụng phương pháp đánh giá từ xa có thể cung cấp một giải pháp thay thế cho các tình huống hợp pháp, bất khả kháng.
+
+#
