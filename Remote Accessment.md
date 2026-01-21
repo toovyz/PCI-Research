@@ -22,4 +22,11 @@
 
 Mặc dù đánh giá onsite vẫn là phương pháp đánh giá được ưu tiên cho các cuộc đánh gá, nhưng việc sử dụng phương pháp đánh giá từ xa có thể cung cấp một giải pháp thay thế cho các tình huống hợp pháp, bất khả kháng.
 
-#
+# 2. Quy trình đánh giá từ xa
+Khi đánh giá từ xa, cần phải đáp ứng các nguyên tắc sau:
+- Các hoạt động đánh giá từ xa khôgn được làm giảm hoặc làm ảnh hưởng bảo mật đến môi trường được đánh giá.
+- Các hoạt động đánh giá từ xa không được vi phạm các yêu cầu bảo mật của PCI DSS.
+- Các hoạt động đánh giá từ xa phải được thiết kế và triển khai theo phương án tránh gây thêm rủi ro làm gián đoạn hoạt động của thực thể.
+- Việc đánh giá từ xa phải được thực hiện với cùng sự nghiêm túc và trung thực như việc đánh giá onsite.
+
+## 2.1. Tổng quan cách tiếp cận
